@@ -1,0 +1,4 @@
+.build/
+bin/
+method.conf
+.DS_Store

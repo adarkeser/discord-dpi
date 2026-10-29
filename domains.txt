@@ -1,0 +1,19 @@
+# Domains that get the DNS fix and go through the bypass. Everything else on
+# the Mac is left alone. One per line; subdomains are included automatically.
+# Run the install again after editing (./install.sh on macOS, windows\install.cmd
+# on Windows).
+discord.com
+discordapp.com
+discord.gg
+discord.media
+discordapp.net
+discordcdn.com
+discord.co
+discord.app
+discord.gift
+discord.new
+discord.dev
+dis.gd
+discordsays.com
+discordactivities.com
+discordstatus.com
